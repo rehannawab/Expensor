@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fiosys.expensor.category.ViewCategory">
+    <item android:id="@+id/delete_category" android:title="@string/delete"
+        android:orderInCategory="100" android:showAsAction="always" />
+</menu>
